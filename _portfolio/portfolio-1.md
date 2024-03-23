@@ -1,7 +1,19 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Taipei and Hualien"
+excerpt: "a seven-day trip to Taiwan<br/><img src='DSC03636.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Travel alone is quite a wonderful exprience. The crash between tradition and modernity in Taipei, the well perservation of natural sightseeings touched me so much. 
+
+![Taipei'Street](/images/DSC03373.jpg)
+
+![Taipei'Street](/images/DSC03420.jpg)
+
+![Taipei'Street](/image/DSC03479)
+
+![Taipei'Street](/images/DSC03517.jpg)
+
+![Taipei'Street](/images/DSC03524.jpg)
+
+![Hualien](/images/DSC03543.jpg)
