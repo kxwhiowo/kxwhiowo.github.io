@@ -7,5 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-This is Noel's personal website, still under construction!
+I am Noel, a CS year 2 student from [HKU](https://www.hku.hk). I come from Xiamen, a small city located at southeast of China.
+
+ 
+
+My research interest:
+
+* Machine Learning
+
+* NLP
+ 
+
+Other Stuffs about me:
+
+
+* I am an amateur piano lover. I have started playing the piano for 10+ years since 6 years old.
+
+ 
+
+* I am a super enthusiast of rock music. My favourite bands are **Oasis** and **The rolling stones**.
+
+ 
+
+* I have deep passion in **Table Tennis** and **Hiking**.
+
+
+* My current food plan is to discover **the best 10 burger restaurants** in HK.
+
+
+* This site is still under construction! Feel free to contact me!
 

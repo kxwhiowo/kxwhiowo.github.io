@@ -21,7 +21,7 @@ repository               : "kxwhiowo/kxwhiowo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Noel Liao"
   pronouns         : # example: "she/her"  
   bio              : "A Computer Science Student at HKU"
