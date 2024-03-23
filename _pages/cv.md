@@ -11,11 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Eng. in Computer Science, Minor in Finance, The University of Hong Kong, 2022-now
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -30,18 +28,16 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C++
+* Java
+* Bash
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -57,8 +53,22 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+  {% endfor %}</ul> -->
+
+Courses
 ======
-* Currently signed in to 43 different slack teams
+
++ CS 61BL: Data structure and programming methodology, UC Berkeley, 2023 Summer Semester
++ COMP 2396: Object-oriented Programming and Java, HKU, 2023
+
++ COMP 2121: Discrete Mathematics, HKU, 2023
+
+
+Service
+======
+* Currently HKU student ambassador
+
+Research Interests
+======
+* Machine Learning
+* Nature Language Processing
