@@ -239,9 +239,9 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -251,7 +251,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _photography
   - scope:
       path: ""
       type: photography
