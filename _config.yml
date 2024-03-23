@@ -205,7 +205,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  photograpy:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -254,7 +254,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: photography
     values:
       layout: single
       author_profile: true
