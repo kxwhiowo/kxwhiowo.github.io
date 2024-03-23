@@ -1,6 +1,6 @@
 ---
 title: "Shanghai"
-excerpt: "Spring of Shanghai in 2023<br/><img src='/images/DSC02107.jpg'>"
+excerpt: "Spring of Shanghai in 2023<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
