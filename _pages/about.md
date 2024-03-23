@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Noel, a CS year 2 student from [HKU](https://www.hku.hk). I come from Xiamen, a small city located at southeast of China.
+I am Noel, a CS year 2 student from [HKU](https://www.hku.hk). I come from [Xiamen](https://en.wikipedia.org/wiki/Xiamen), a small city located at southeast of China.
 
  
 
