@@ -1,6 +1,6 @@
 ---
 title: "Taipei and Hualien"
-excerpt: "a seven-day trip to Taiwan<br/><img src='DSC03636.jpg'>"
+excerpt: "a seven-day trip to Taiwan<br/><img src='/images/DSC03636.jpg'>"
 collection: portfolio
 ---
 
