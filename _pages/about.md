@@ -14,9 +14,10 @@ I am Noel, a CS year 2 student from [HKU](https://www.hku.hk). I come from [Xiam
 My research interest:
 
 * Machine Learning
+  * Data Augumentation with diffusion model
 
-* NLP
- 
+* Computer Vision
+  * Guided image generation
 
 Other Stuffs about me:
 
@@ -33,7 +34,7 @@ Other Stuffs about me:
 
 
 * My current food plan is to discover **the best 10 burger restaurants** in HK.
-
+  * Update: Maybe just 5...
 
 * This site is still under construction! Feel free to contact me!
 
