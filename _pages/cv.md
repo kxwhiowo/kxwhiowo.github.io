@@ -32,10 +32,10 @@ Education
   
 Skills
 ======
-* Python
-* C++
-* Java
-* Bash
+
+* Programming Language: Python, C++, Java, Bash
+* Tools: Pytorch, Numpy, Scipy...
+* Language: English, Mandarin, Cantonese
 
 <!-- Publications
 ======
@@ -60,8 +60,12 @@ Courses
 
 + CS 61BL: Data structure and programming methodology, UC Berkeley, 2023 Summer Semester
 + COMP 2396: Object-oriented Programming and Java, HKU, 2023
-
++ COMP 2020: Computer Organization, HKU, 2024
 + COMP 2121: Discrete Mathematics, HKU, 2023
++ COMP 3234: Computer and communication networks, HKU, 2024
++ COMP 3270: Artificial Intelligence, HKU, 2024
++ COMP 3314: Machine Learning, HKU, 2024
++ COMP 3317: Computer Vision, HKU, 2024
 
 
 Service
@@ -71,5 +75,5 @@ Service
 Research Interests
 ======
 * Machine Learning
-* Nature Language Processing
-* Data Science
+  + OOD data generation
+  + LLM-based data augmentation
