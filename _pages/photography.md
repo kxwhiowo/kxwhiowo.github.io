@@ -9,5 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Some of my 
-
+{% for post in site.photography reversed %}
+  {% include archive-single.html %}
+{% endfor %}
