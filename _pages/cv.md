@@ -32,13 +32,8 @@ Skills
 * Programming Language: Python, C++, Java, Bash, SQL, MongoDB...
 * Tools: Pytorch, Numpy, Scipy...
 * Language: English, Mandarin, Cantonese
-<!-- 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
+
+
 Courses
 ======
 
