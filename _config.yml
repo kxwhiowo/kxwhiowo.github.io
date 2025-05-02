@@ -205,12 +205,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  photograpy:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # photograpy:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults

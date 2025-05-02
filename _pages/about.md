@@ -9,13 +9,7 @@ redirect_from:
 
 I am Noel, a year 3 CS student from [HKU](https://www.hku.hk). I come from [Xiamen](https://en.wikipedia.org/wiki/Xiamen), a small city located at southeast of China.
 
- 
-
-My research interest:
-
-* Machine Learning
-  * Data Augumentation with diffusion model
-  * OOD data generation
+Please check my CV and publications for my research interests. 
 
 Other Stuffs about me:
 

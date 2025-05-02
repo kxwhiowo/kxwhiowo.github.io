@@ -12,49 +12,33 @@ redirect_from:
 Education
 ======
 * B.Eng. in Computer Science, Minor in Finance, The University of Hong Kong, 2022-now
+* B.S. in Computer Science, Purdue University, 2025 Spring
 
-<!-- Work experience
+Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.5-2025.5: Research Assistant
+  * The University of Hong Kong
+  * Data Augmentation and Out-Of-Distribution Detection
+  * Supervisor: Shuo Yang, Hengshuang Zhao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2025.5-present: Research Internship
+  * Purdue University
+  * VLM safety alignment
+  * Supervisor: Ruqi Zhang
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
-  
 Skills
 ======
 
-* Programming Language: Python, C++, Java, Bash
+* Programming Language: Python, C++, Java, Bash, SQL, MongoDB...
 * Tools: Pytorch, Numpy, Scipy...
 * Language: English, Mandarin, Cantonese
-
-<!-- Publications
+<!-- 
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
+   -->
 Courses
 ======
 
@@ -74,6 +58,8 @@ Service
 
 Research Interests
 ======
+
 * Machine Learning
   + OOD data generation
-  + LLM-based data augmentation
+
+* Trustworthy AI
