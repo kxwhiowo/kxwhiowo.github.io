@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng. in Computer Science, Minor in Finance, The University of Hong Kong, 2022-now
-* B.S. in Computer Science, Purdue University, 2025 Spring
+* B.S. in Computer Science, Purdue University, 2025 Spring Exchange
 
 Work experience
 ======
@@ -45,6 +45,9 @@ Courses
 + COMP 3270: Artificial Intelligence, HKU, 2024
 + COMP 3314: Machine Learning, HKU, 2024
 + COMP 3317: Computer Vision, HKU, 2024
++ CS 381: Introduction to the Analysis of Algorithms, Purdue, 2025
++ CS 348: Information Systems, Purdue, 2025
++ STAT 511: Statistical Methods, Purdue, 2025
 
 
 Service
