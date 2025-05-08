@@ -6,13 +6,20 @@ excerpt: "NOLA adventure<br/><img src='/images/NOLA/DSC04025.jpg'>"
 collection: photography
 ---
 
-Wonderful food, great people, best Jazz, all mixed together in this city near the running Mississippi.
+Tasty food, great people, best Jazz, all mixed together in this city near the running Mississippi.
 
 ![1](/images/NOLA/DSC04025.jpg)
+
 ![2](/images/NOLA/DSC04031.jpg)
+
 ![1](/images/NOLA/DSC04046.jpg)
+
 ![1](/images/NOLA/DSC04050.jpg)
+
 ![1](/images/NOLA/DSC04053.jpg)
+
 ![1](/images/NOLA/DSC04094.jpg)
+
 ![1](/images/NOLA/DSC04095.jpg)
+
 ![1](/images/NOLA/DSC04105.jpg)
