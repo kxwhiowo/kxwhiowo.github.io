@@ -1,7 +1,7 @@
 ---
 title: "NOLA"
 date: 2025-03-19
-permalink: /photography/Nanjing
+permalink: /photography/NOLA
 excerpt: "NOLA adventure<br/><img src='/images/NOLA/DSC04025.jpg'>"
 collection: photography
 ---
