@@ -2,7 +2,7 @@
 title: "Taipei and Hualien"
 date: 2024-01-03
 permalink: /photography/Taiwan
-excerpt: "a seven-day trip to Taiwan<br/><img src='/images/500x300.png'>"
+excerpt: "a seven-day trip to Taiwan<br/><img src='/images/DSC03543.jpg'>"
 collection: photography
 ---
 
