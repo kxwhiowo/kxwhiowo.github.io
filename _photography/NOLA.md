@@ -1,5 +1,5 @@
 ---
-title: "Nanjing"
+title: "NOLA"
 date: 2025-03-19
 permalink: /photography/Nanjing
 excerpt: "NOLA adventure<br/><img src='/images/NOLA/DSC04025.jpg'>"
