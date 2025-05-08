@@ -9,8 +9,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Photography"
-  #     url: /photography/
+  - title: "Photography"
+    url: /photography/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
