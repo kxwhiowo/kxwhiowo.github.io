@@ -1,15 +1,11 @@
 ---
-permalink: /
-title: "About me"
+layout: archive
+title: "Misc"
+permalink: /misc/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-I am Noel, a year 3 CS student from [HKU](https://www.hku.hk). I come from [Xiamen](https://en.wikipedia.org/wiki/Xiamen), a small city located at southeast of China.
-
-Please check my CV and publications for my research interests.
+{% include base_path %}
 
 Other Stuffs about me:
 
@@ -35,4 +31,3 @@ Other Stuffs about me:
     * [The Bryant Food and Drink Co.](https://www.thebryantwl.com/)(7/10)
   * Chicago:
     * [Billy Goat Tavern]([places.singleplatform.com](https://www.billygoattavern.com/?srsltid=AfmBOorhYcPvKmqhU_gQELIK9T2bFfZ8GXIqQAhqzFhCiAYTJQYQ_bda))(6.1/10) Actually not a place for eating burgers.
-* This site is still under construction! Feel free to contact me!
