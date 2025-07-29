@@ -31,3 +31,12 @@ Other Stuffs about me:
     * [The Bryant Food and Drink Co.](https://www.thebryantwl.com/)(7/10)
   * Chicago:
     * [Billy Goat Tavern]([places.singleplatform.com](https://www.billygoattavern.com/?srsltid=AfmBOorhYcPvKmqhU_gQELIK9T2bFfZ8GXIqQAhqzFhCiAYTJQYQ_bda))(6.1/10) Actually not a place for eating burgers.
+  * Vancouver:
+    * [ICML](https://icml.cc/Conferences/2025)(3/10) You cannot expect having anything good here.
+    * [Roundhouse Lodge at Whistler Peak](whistlerblackcomb.com)(5.8/10) A cold burger...
+    * [Ovaltine Cafe](https://www.ovaltine-cafe.com/)(7/10) Normal burger, not expensive, but the environmental outside was just as hell.
+  * Prince George:
+    * [Nancy O's](https://www.nancyos.ca/)(8.5/10) Not bad for the BBQ flavor, but not too juicy.
+    * [VIA Train](https://www.viarail.ca/en)(4/10) A frozen burger, but not that bad compared to its price.
+  * Banff:
+    * [The Eddie Burger](https://www.eddieburgerbar.ca/menus)(8/10) I believe they have skills to make a wonderful one, but the blue cheese company with jalapeno was just not a good idea.
