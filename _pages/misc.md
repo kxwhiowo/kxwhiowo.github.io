@@ -13,7 +13,7 @@ Other Stuffs about me:
 
 * I am a super enthusiast of rock music. My favourite bands are **Oasis** and **The Rolling Stones**.
 
-* I have deep passion in **Table Tennis** and **Hiking**.
+* I have deep passion in **Table Tennis** and **Hiking**. My current setup is a Fan Zhendong ALC blade, with Tibhar K1 Plus on my forehand and Yasaka Hovering Dragon on my backhand.
 
 * My current food plan is to discover **the best 5 burger restaurants** in the world. I've been rating all the burgers I've eaten for everyone's reference.
   * Hong Kong:  

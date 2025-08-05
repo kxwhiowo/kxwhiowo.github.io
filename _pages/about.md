@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Noel, a year 3 CS student from [HKU](https://www.hku.hk). I come from [Xiamen](https://en.wikipedia.org/wiki/Xiamen), a small city located at southeast of China.
+I am a final-year Computer Science undergraduate at the [University of Hong Kong (HKU)](https://www.hku.hk). I am from [Xiamen](https://en.wikipedia.org/wiki/Xiamen), a coastal city in southeastern China.
+
+Currently, I am a Research Assistant at Purdue University, advised by Prof. [Ruqi Zhang](https://ruqizhang.github.io/). Previously, I conducted research at HKU under the supervision of Prof. [Shuo Yang](https://shuoyang-1998.github.io/) and Prof. [Hengshuang Zhao](https://hszhao.github.io/).
 
 Please check my CV and publications for my research interests.
-
-This site is still under construction! Feel free to contact me!
