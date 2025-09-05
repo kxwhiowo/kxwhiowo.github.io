@@ -17,6 +17,7 @@ Other Stuffs about me:
 
 * My current food plan is to discover **the best 5 burger restaurants** in the world. I've been rating all the burgers I've eaten for everyone's reference.
   * Hong Kong:  
+    * [N+ Burger](https://www.nplusburger.com/)(9.3/10) Ordered the truffle brisket one. Amazing, soft but chewy bread, truffle sauce brought strong flavor around your mouth.
     * [Honbo](https://www.openrice.com/zh/hongkong/r-honbo-%E7%81%A3%E4%BB%94-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r522819)(9.2/10) They say it is the best one in HK even top 3 burger restaurants in the whole world, well I kinda agree with that...
     * [Smash'D](https://www.openrice.com/en/hongkong/r-smashd-western-district-international-hamburger-r745157)(9.4/10) Best one in HK, definitely worth a try.
     * [Mirror Burger](https://www.mirrorburger.com/)(8.8/10) 平靚正。
