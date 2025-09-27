@@ -1,5 +1,5 @@
 ---
-title: "Nanjing"
+title: "Canada"
 date: 2025-07-13
 permalink: /photography/Canada
 excerpt: "My two weeks in Canada<br/><img src='/images/canada/DSC05032.jpg'>"
