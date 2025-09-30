@@ -55,6 +55,7 @@ Courses
 Service
 ======
 * Currently HKU student ambassador
+* Conference Reviewer: ICLR 2026
 
 Research Interests
 ======
