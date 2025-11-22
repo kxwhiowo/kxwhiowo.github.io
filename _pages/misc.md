@@ -21,6 +21,7 @@ Other Stuffs about me:
     * [Honbo](https://www.openrice.com/zh/hongkong/r-honbo-%E7%81%A3%E4%BB%94-%E7%BE%8E%E5%9C%8B%E8%8F%9C-%E6%BC%A2%E5%A0%A1%E5%8C%85-r522819)(9.2/10) They say it is the best one in HK even top 3 burger restaurants in the whole world, well I kinda agree with that...
     * [Smash'D](https://www.openrice.com/en/hongkong/r-smashd-western-district-international-hamburger-r745157)(9.4/10) Best one in HK, definitely worth a try.
     * [Mirror Burger](https://www.mirrorburger.com/)(8.8/10) 平靚正。
+    * [Aster by Poppy](https://www.openrice.com/en/hongkong/r-aster-by-poppy-sheung-wan-american-r897170)(8.2/10) A huge fish burger, English style. But it is kinda fishy, and since the fish inside is too huge, you cannot eat the bun and fish at the same time, which may seem weird.   
     * [Flying Butcher Hong Kong](http://www.flyingbutcher.com/)(8/10)
     * [HoHon Eatery](https://www.instagram.com/hohoneatery/)(7.8/10) Too cheesy, no greens at all.
     * [Dare](https://www.openrice.com/en/hongkong/r-dare-western-district-western-r595274)(5/10) It's really hard to find a burger dry like this.
