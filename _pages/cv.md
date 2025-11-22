@@ -28,6 +28,24 @@ Work experience
   * VLM safety alignment
   * Supervisor: Ruqi Zhang
 
+Publications
+=====
+Please check my publication page or [Google Scholar page](https://scholar.google.com/citations?user=ZfiC_tEAAAAJ&hl=zh-CN) for reference. 
+
+
+Research Interests
+======
+* Trustworthy AI: Foundation model alignment, robustness, privacy...
+
+* Data Centric AI: OOD detection, Data Augmentation...
+
+
+Service
+======
+* Currently HKU student ambassador
+* Conference Reviewer: ICLR 2026
+
+
 Skills
 ======
 
@@ -36,7 +54,7 @@ Skills
 * Language: English, Mandarin, Cantonese
 
 
-Courses
+<!-- Courses
 ======
 
 + CS 61BL: Data structure and programming methodology, UC Berkeley, 2023 Summer Semester
@@ -50,16 +68,6 @@ Courses
 + CS 381: Introduction to the Analysis of Algorithms, Purdue, 2025
 + CS 348: Information Systems, Purdue, 2025
 + STAT 511: Statistical Methods, Purdue, 2025
+ -->
 
 
-Service
-======
-* Currently HKU student ambassador
-* Conference Reviewer: ICLR 2026
-
-Research Interests
-======
-
-* Data Centric AI
-
-* Trustworthy AI
