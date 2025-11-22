@@ -7,13 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-Other Stuffs about me:
+Other Stuff about me:
 
-* I am an amateur piano lover. I have started playing the piano for 10+ years since 6 years old.
+* I am an amateur piano lover. I have been playing the piano for 10+ years, starting when I was 6 years old.
 
-* I am a super enthusiast of rock music. My favourite bands are **Oasis** and **The Rolling Stones**.
+* I am a huge enthusiast of rock music. My favourite bands are **Oasis** and **The Rolling Stones**.
 
-* I have deep passion in **Table Tennis** and **Hiking**. My current setup is a *Fan Zhendong ALC* blade, with *Tibhar K1 Plus* on my forehand and on my backhand.
+* I am a backpacker, and I travel alone most of the time. Usually I follow the guide on [Lonely Planet](https://www.lonelyplanet.com/) (it is so frustrating that they don't publish Chinese version anymore).
+
+* I have a deep passion for **Table Tennis** and **Hiking**. My current setup is a *Fan Zhendong ALC* blade, with *Tibhar K1 Plus* on my forehand and Yasaka Hovering Dragon on my backhand.
 
 * My current food plan is to discover **the best 5 burger restaurants** in the world. I've been rating all the burgers I've eaten for everyone's reference.
   * Hong Kong:  
