@@ -43,7 +43,7 @@ Research Interests
 Service
 ======
 * Currently HKU student ambassador
-* Conference Reviewer: ICLR 2026
+* Conference Reviewer: ICLR2026, ICML2026
 
 
 Skills
