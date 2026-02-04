@@ -35,21 +35,21 @@ Please check my publication page or [Google Scholar page](https://scholar.google
 
 Research Interests
 ======
-* Trustworthy AI: Foundation model alignment, robustness, privacy...
+* Trustworthy AI: Foundation Model Alignment, Robustness, Privacy, Hallucinations...
 
 * Data Centric AI: OOD detection, Data Augmentation...
 
 
 Service
 ======
-* Currently HKU student ambassador
+* HKU student ambassador 2022 - 2025
 * Conference Reviewer: ICLR2026, ICML2026
 
 
 Skills
 ======
 
-* Programming Language: Python, C++, Java, Bash, SQL, MongoDB...
+* Programming Language: Python, C++, Java, Bash, SQL, MongoDB, R...
 * Tools: Pytorch, Numpy, Scipy...
 * Language: English, Mandarin, Cantonese
 
