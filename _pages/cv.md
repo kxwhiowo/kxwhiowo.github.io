@@ -43,7 +43,7 @@ Research Interests
 Service
 ======
 * HKU student ambassador 2022 - 2025
-* Conference Reviewer: ICLR2026, ICML2026
+* Conference Reviewer: ICLR2026
 
 
 Skills
