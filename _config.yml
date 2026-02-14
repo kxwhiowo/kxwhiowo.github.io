@@ -1,8 +1,8 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qilin \"Noel\" Liao"
+title                    : "Qilin 'Noel' Liao"
 title_separator          : "-"
-name                     : &name "Qilin \"Noel\" Liao"
+name                     : &name "Qilin 'Noel' Liao"
 description              : &description "HKU CompSci 26'"
 url                      : https://kxwhiowo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -14,7 +14,7 @@ repository               : "kxwhiowo/kxwhiowo.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Qilin \"Noel\" Liao"
+  name             : "Qilin 'Noel' Liao"
   pronouns         : # example: "she/her"  
   bio              : "HKU CS 26'"
   location         : "Hong Kong S.A.R"

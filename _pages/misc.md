@@ -9,6 +9,9 @@ author_profile: true
 
 Other Stuff about me:
 
+* How to pronounce my name? 
+  - "Chee-lyn Lee-ow"
+
 * I am an amateur piano lover. I have been playing the piano for 10+ years, starting when I was 6 years old.
 
 * I am a huge enthusiast of rock music. My favourite bands are **Oasis** and **The Rolling Stones**.
