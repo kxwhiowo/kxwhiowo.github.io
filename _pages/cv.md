@@ -37,6 +37,8 @@ Research Interests
 ======
 * Trustworthy AI: Foundation Model Alignment, Robustness, Privacy, Hallucinations...
 
+* Generative AI, Multimodal AI
+
 * Data Centric AI: OOD detection, Data Augmentation...
 
 
