@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-Other Stuff about me:
+Other Stuffs about me:
 
 * How to pronounce my name? 
   - "Chee-lyn Lee-ow"
 
 * I am an amateur piano lover. I have been playing the piano for 10+ years, starting when I was 6 years old.
 
-* I am a huge enthusiast of rock music. My favourite bands are **Oasis** and **The Rolling Stones**.
+* I am a huge enthusiast of rock music. My favourite bands are **Oasis**, **The Rolling Stones** and **Radiohead**.
 
 * I am a backpacker, and I travel alone most of the time. Usually I follow the guide on [Lonely Planet](https://www.lonelyplanet.com/) (it is so frustrating that they don't publish Chinese version anymore).
 
