@@ -18,4 +18,4 @@ From Madrid, I took the Renfe train to Andalusia, where I had my most unforgetta
 ![4](/images/eu/DSC06169.jpg)
 ![5](/images/eu/DSC06207.jpg)
 ![6](/images/eu/DSC06356.jpg)
-[!7](/images/eu/DSC06373.jpg)
+![7](/images/eu/DSC06373.jpg)
