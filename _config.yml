@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Qilin Liao"
 title_separator          : "-"
 name                     : &name "Qilin Liao"
-description              : &description "HKU CompSci 26'"
+description              : &description "Purdue CS PhD | HKU CompSci 26'"
 url                      : https://kxwhiowo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kxwhiowo/kxwhiowo.github.io"
@@ -18,7 +18,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD @ Purdue CS | HKU CS 26'"
   location         : "Hong Kong S.A.R"
-  employer         : "The University of Hong Kong"
+  employer         : "Purdue University"
   uri              : # URL
   email            : "liao267@purdue.edu" 
 

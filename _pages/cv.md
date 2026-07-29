@@ -13,21 +13,21 @@ Education
 ======
 
 * Ph.D in Computer Science, Purdue University, 2026 - now
-* B.Eng. in Computer Science, Minor in Finance, The University of Hong Kong, 2022-2026 (First Honors)
+* B.Eng. in Computer Science, Minor in Finance, The University of Hong Kong, 2022-2026 (First Class Honors)
 * B.S. in Computer Science, Purdue University, 2025 Spring Exchange
 
 Work experience
 ======
 
-* 2024.5-2025.5: Research Assistant
-  * The University of Hong Kong
-  * Data Augmentation and Out-Of-Distribution Detection
-  * Supervisor: Shuo Yang, Hengshuang Zhao
-
 * 2025.5-2026.5: Research Internship
   * Purdue University
   * AI Safety
   * Supervisor: Ruqi Zhang
+
+* 2024.5-2025.5: Research Assistant
+  * The University of Hong Kong
+  * Data Augmentation and Out-Of-Distribution Detection
+  * Supervisor: Shuo Yang, Hengshuang Zhao
 
 Publications
 =====

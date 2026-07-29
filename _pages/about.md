@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Computer Science undergraduate at the [University of Hong Kong (HKU)](https://www.hku.hk). I am from [Xiamen](https://en.wikipedia.org/wiki/Xiamen), a coastal city in southeastern China.
+I am a CS PhD Student at [Purdue University](https://www.purdue.edu/), advised by Prof. [Ruqi Zhang](ruqizhang.github.io). Before that, I graduated from [The University of Hong Kong (HKU)](https://www.hku.hk), majoring in Computer Science. I am from [Xiamen](https://en.wikipedia.org/wiki/Xiamen), also known as Amoy, a coastal city in southeastern China.
 
-Currently, I am a Research Assistant at Purdue University, advised by Prof. [Ruqi Zhang](https://ruqizhang.github.io/). Previously, I conducted research at HKU under the supervision of Prof. [Shuo Yang](https://shuoyang-1998.github.io/) and Prof. [Hengshuang Zhao](https://hszhao.github.io/).
+<!-- Previously, I conducted research at HKU under the supervision of Prof. [Shuo Yang](https://shuoyang-1998.github.io/) and Prof. [Hengshuang Zhao](https://hszhao.github.io/). -->
 
-Please check my CV and publications for my research interests.
+Please check my CV and publications for my experiences and research interests. I am looking for internship oppotunities in 2027 Summer, please contact me if you want to collaborate with me!

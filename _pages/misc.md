@@ -47,3 +47,5 @@ Other Stuffs about me:
     * [VIA Train](https://www.viarail.ca/en)(4/10) A frozen burger, not that bad compared to its price.
   * Banff:
     * [The Eddie Burger](https://www.eddieburgerbar.ca/menus)(8/10) I believe they have skills to make a wonderful one, but the blue cheese with jalapeno was just not a good idea.
+  * South Korea:
+    * [Gordon Ramsay Street Burger COEX](https://www.gordonramsayrestaurants.com/gordon-ramsay-burger-korea/)(8.1/10) Huge patty, juicy, definitely can make you full, while the flavor was too simple and the sauce was just normal.
