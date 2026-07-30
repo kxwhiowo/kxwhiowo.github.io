@@ -162,6 +162,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - toys
 keep_files:
   - .git
   - .svn

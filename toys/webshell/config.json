@@ -1,0 +1,66 @@
+{
+  "ascii": [
+    " ██████╗ ██╗██╗     ██╗███╗   ██╗",
+    "██╔═══██╗██║██║     ██║████╗  ██║",
+    "██║   ██║██║██║     ██║██╔██╗ ██║",
+    "██║▄▄ ██║██║██║     ██║██║╚██╗██║",
+    "╚██████╔╝██║███████╗██║██║ ╚████║",
+    " ╚══▀▀═╝ ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝"
+  ],
+  "title": "Qilin's Terminal",
+  "username": "guest",
+  "hostname": "kxwhiowo",
+  "password": "amoy",
+  "repoLink": "https://github.com/kxwhiowo/kxwhiowo.github.io",
+  "social": {
+    "email": "liao267@purdue.edu",
+    "github": "kxwhiowo",
+    "linkedin": ""
+  },
+  "aboutGreeting": "Hi. I'm Qilin Liao — CS PhD student at Purdue, advised by Prof. Ruqi Zhang. Previously HKU CompSci.",
+  "projects": [
+    [
+      "VERA-V",
+      "Variational jailbreaks for vision-language models (ICML).",
+      "https://arxiv.org/abs/2510.17759"
+    ],
+    [
+      "BOOD",
+      "Boundary-based OOD data generation with diffusion (ICML).",
+      "https://openreview.net/forum?id=mEEiiUXQ7O"
+    ],
+    [
+      "Homepage",
+      "Academic site — pubs, photography, CV.",
+      "https://kxwhiowo.github.io/"
+    ],
+    [
+      "Photography",
+      "Travel albums and snapshots.",
+      "https://kxwhiowo.github.io/photography/"
+    ]
+  ],
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+import command from '../../config.json' assert {type: 'json'};
+
+const createAbout = () : string[] => {
+  const about : string[] = [];
+
+  const SPACE = "&nbsp;";
+
+  about.push("<br>");
+  about.push(command.aboutGreeting);
+  about.push("<br>");
+
+  if (command.social.email) {
+    const EMAIL = "Email";
+    const email = `<i class='fa-solid fa-envelope'></i> ${EMAIL}`;
+    let string = SPACE.repeat(2);
+    string += email;
+    string += SPACE.repeat(17 - EMAIL.length);
+    string += `<a target='_blank' href='mailto:${command.social.email}'>${command.social.email}</a>`;
+    about.push(string);
+  }
+
+  if (command.social.github) {
+    const GITHUB = "Github";
+    const github = `<i class='fa-brands fa-github'></i> ${GITHUB}`;
+    let string = SPACE.repeat(2);
+    string += github;
+    string += SPACE.repeat(17 - GITHUB.length);
+    string += `<a target='_blank' href='https://github.com/${command.social.github}'>github/${command.social.github}</a>`;
+    about.push(string);
+  }
+
+  if (command.social.linkedin) {
+    const LINKEDIN = "Linkedin";
+    const linkedin = `<i class='fa-brands fa-linkedin'></i> ${LINKEDIN}`;
+    let string = SPACE.repeat(2);
+    string += linkedin;
+    string += SPACE.repeat(17 - LINKEDIN.length);
+    string += `<a target='_blank' href='https://www.linkedin.com/in/${command.social.linkedin}'>linkedin/${command.social.linkedin}</a>`;
+    about.push(string);
+  }
+
+  about.push("<br>");
+  return about
+}
+
+export const ABOUT = createAbout();
