@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<main class="portfolio-shell detail-shell photo-shell" id="main-content">
+  <a class="back-link" href="{{ '/photography/' | relative_url }}" aria-label="Back to photography">
+    <span aria-hidden="true">&larr;</span> All photo stories
+  </a>
+
+  <article class="photo-story">
+    <header class="detail-header photo-story__header">
+      <p class="eyebrow">Photo journal / {{ page.date | date: "%Y" }}</p>
+      <h1>{{ page.title }}</h1>
+      {% if page.summary %}<p class="photo-story__dek">{{ page.summary }}</p>{% endif %}
+    </header>
+
+    <div class="photo-story__content">
+      {{ content }}
+    </div>
+  </article>
+</main>

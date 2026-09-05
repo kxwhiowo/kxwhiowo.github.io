@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
     
   - title: "Photography"
@@ -10,7 +10,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Qilin_Liao_CV.pdf
+    new_window: true
   - title: "Misc"
     url: /misc/
     

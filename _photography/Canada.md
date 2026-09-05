@@ -3,6 +3,8 @@ title: "Canada"
 date: 2025-07-13
 permalink: /photography/Canada
 excerpt: "My two weeks in Canada<br/><img src='/images/canada/DSC05032.jpg'>"
+summary: "Two weeks across western Canada"
+cover: /images/canada/DSC05032.jpg
 collection: photography
 ---
 
@@ -27,4 +29,3 @@ My first conference. Starting from Vancouver, I visited Whistler, flew to Prince
 ![9](/images/canada/DSC05050.jpg)
 
 ![10](/images/canada/DSC05154.jpg)
-
