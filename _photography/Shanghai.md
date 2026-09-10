@@ -3,12 +3,12 @@ title: "Shanghai"
 date: 2023-03-15
 permalink: /photography/Shanghai
 excerpt: "Spring of Shanghai in 2023<br/><img src='/images/DSC02071.jpg'>"
-summary: "A not-so-mainstream Shanghai trip"
+summary: "In the cold damp air..."
 cover: /images/DSC02071.jpg
 collection: photography
 ---
 
-A not mainstream short trip to Shanghai.
+A non-mainstream short trip to Shanghai.
 
 ![1](/images/DSC01893.jpg)
 

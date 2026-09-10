@@ -3,7 +3,7 @@ title: "Nanjing"
 date: 2024-04-01
 permalink: /photography/Nanjing
 excerpt: "Last Spring in Nanjing<br/><img src='/images/Nanjing/DSC03769.jpg'>"
-summary: "A first spring among cherry blossoms"
+summary: "Late Spring in Nanjing"
 cover: /images/Nanjing/DSC03769.jpg
 collection: photography
 ---
